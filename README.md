@@ -10,9 +10,11 @@ Using Vuforia in developer mode is free for X (a lot) amount of times. [t/c] -> 
 
 ### Create a new Vuforia License
 
-![Screenshot](NWUImages⁩\Screenshot 2019-07-15 at 11.13.03.png)
+![Screenshot](https://github.com/pieterdlinde/nwu/blob/master/NWUImages/Screenshot%202019-07-15%20at%2011.13.03.png)
 
 ### Create a new Vuforia Target Manager
+
+![Screenshot](https://github.com/pieterdlinde/nwu/blob/master/NWUImages/Screenshot%202019-07-15%20at%2011.20.54.png)
 
 ### Download the Vuforia database
 
@@ -21,3 +23,5 @@ Using Vuforia in developer mode is free for X (a lot) amount of times. [t/c] -> 
 Go to the official Unity website [Unity](https://unity3d.com/get-unity/download) and download the developer version
 
 ### Create a new Project
+
+![Screenshot](https://github.com/pieterdlinde/nwu/blob/master/NWUImages/Screenshot%202019-07-15%20at%2011.21.22.png)
