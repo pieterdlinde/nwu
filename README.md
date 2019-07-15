@@ -78,8 +78,9 @@ Go to the Unity Asset Store and download the asset -> Stylized Earth
 
 ### Drag and Drop the EarthSpinScript file into the lowpoly_earth_prefab
 
-
 ### Drag and Drop the EarthSpinScript file into the lowpoly_earth_prefab
+
+![Screenshot](https://github.com/pieterdlinde/nwu/blob/master/NWUImages/Screenshot%202019-07-15%20at%2012.25.10.png)
 
 ### Boom you are done.  Press Run and Test
 
